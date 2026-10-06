@@ -176,6 +176,13 @@ button,input,textarea{font:inherit}
   .field.full{grid-column:auto}
   .footer-grid{grid-template-columns:1fr}
 }
+@media(max-width:780px){
+
+  .hero-background img{
+    object-position:60% center;
+  }
+
+}
 @media(max-width:450px){
   .container{width:min(calc(100% - 22px),var(--max))}
   .nav{padding:8px 12px}
