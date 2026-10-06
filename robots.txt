@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sahar-eshghi.github.io/midwifery-clinic/sitemap.xml
