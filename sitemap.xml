@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/</loc></url>
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/services/</loc></url>
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/courses/</loc></url>
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/blog/</loc></url>
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/services/prenatal.html</loc></url>
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/services/birth.html</loc></url>
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/services/postpartum.html</loc></url>
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/services/women.html</loc></url>
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/courses/pregnancy-prep.html</loc></url>
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/courses/birth-prep.html</loc></url>
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/courses/postpartum-course.html</loc></url>
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/journey/before.html</loc></url>
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/journey/trimester-one.html</loc></url>
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/journey/trimester-two-three.html</loc></url>
-  <url><loc>https://sahar-eshghi.github.io/midwifery-clinic/journey/after-birth.html</loc></url>
+  <url><loc>https://example.com/</loc></url>
+  <url><loc>https://example.com/services/</loc></url>
+  <url><loc>https://example.com/courses/</loc></url>
+  <url><loc>https://example.com/blog/</loc></url>
+  <url><loc>https://example.com/services/prenatal.html</loc></url>
+  <url><loc>https://example.com/services/birth.html</loc></url>
+  <url><loc>https://example.com/services/postpartum.html</loc></url>
+  <url><loc>https://example.com/services/women.html</loc></url>
+  <url><loc>https://example.com/courses/pregnancy-prep.html</loc></url>
+  <url><loc>https://example.com/courses/birth-prep.html</loc></url>
+  <url><loc>https://example.com/courses/postpartum-course.html</loc></url>
+  <url><loc>https://example.com/journey/before.html</loc></url>
+  <url><loc>https://example.com/journey/trimester-one.html</loc></url>
+  <url><loc>https://example.com/journey/trimester-two-three.html</loc></url>
+  <url><loc>https://example.com/journey/after-birth.html</loc></url>
 </urlset>
